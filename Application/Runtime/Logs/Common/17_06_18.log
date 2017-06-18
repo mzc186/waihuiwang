@@ -1,0 +1,366 @@
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/dg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/fanhui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/jn.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001548s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001529s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/zxicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/bg2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T16:51:55+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T17:25:08+08:00 ] ::1 /Public/images/erweima2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:33+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:33+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:33+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002019s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:33+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:35+08:00 ] ::1 /Public/images/zxicon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:35+08:00 ] ::1 /Public/images/dg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:35+08:00 ] ::1 /Public/images/jn.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:35+08:00 ] ::1 /Public/images/fanhui.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:28:35+08:00 ] ::1 /Public/images/erweima.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:48:22+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001708s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:48:22+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002317s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:48:22+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T18:48:22+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001672s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:08:29+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:08:29+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001275s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:08:29+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001600s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:08:29+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001797s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:18+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:18+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:18+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:18+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:28+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:28+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:29:28+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:35:58+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:35:58+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:35:58+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001330s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:35:58+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001479s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:36:17+08:00 ] ::1 /index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+ERR: 无法加载模块:Index
+
+[ 2017-06-18T19:36:34+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:36:34+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:36:34+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:36:34+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001325s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:36:57+08:00 ] ::1 /index.php.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+ERR: 无法加载模块:Index.php
+
+[ 2017-06-18T19:37:04+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:37:04+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:37:04+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001144s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:37:04+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:38:46+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:38:46+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:38:46+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003435s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:38:46+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:00+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:00+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:00+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:00+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001132s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:26+08:00 ] ::1 /Public/images/tel400.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:26+08:00 ] ::1 /Public/images/arrow1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:26+08:00 ] ::1 /Public/images/nav_line.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001624s ]
+ERR: 无法加载模块:Public
+
+[ 2017-06-18T19:39:26+08:00 ] ::1 /Public/images/blogo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载模块:Public
+
